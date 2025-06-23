@@ -1,1 +1,23 @@
-**Browser Side Tag**
+⏤→ # Browser Side Tag parameters
+
+content_type
+content_name
+content_ids
+content_category
+num_items
+contents
+value
+currency
+order_id
+predicted_ltv
+lead_id
+em
+ph
+fn
+ln
+ct
+st
+country
+zp
+fbp
+fbc
